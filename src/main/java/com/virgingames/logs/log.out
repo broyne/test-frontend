@@ -1,0 +1,17 @@
+2024-07-25 18:07:615 INFO  HomePage :20 - click on allow cookie: [[ChromeDriver: chrome on windows (e2268d316a894729b215cc0027b4ff0a)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:730 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (1babc5186bf4751a436c8308eabe482e)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:815 INFO  HomePage :29 - Navigate to about us [[ChromeDriver: chrome on windows (1babc5186bf4751a436c8308eabe482e)] -> xpath: //a[contains(text(),'About Us')]]
+2024-07-25 19:07:775 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (fcc96d6387deff5621785eac010fa1c5)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:862 INFO  HomePage :29 - Navigate to about us [[ChromeDriver: chrome on windows (fcc96d6387deff5621785eac010fa1c5)] -> xpath: //a[contains(text(),'About Us')]]
+2024-07-25 19:07:760 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (17d72d917bf95be6315cccf778da0f57)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:387 INFO  HomePage :29 - Navigate to about us [[ChromeDriver: chrome on windows (8424e645961996fd3d7c1020a55245dc)] -> xpath: //a[contains(text(),'About Us')]]
+2024-07-25 19:07:285 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (3e2c3bc62f5cfc4c76fd0a7a138545d7)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:26 INFO  HomePage :29 - Navigate to about us [[ChromeDriver: chrome on windows (a60968d1e5681cc5aaa7eaaf6a07a931)] -> xpath: //a[contains(text(),'About Us')]]
+2024-07-25 19:07:439 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (d58b60604cd11826ad89a93480b9c85b)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:711 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (17b3ea1852cdb6d00e78c9113598e5c0)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:853 INFO  HomePage :29 - Navigate to about us [[ChromeDriver: chrome on windows (17b3ea1852cdb6d00e78c9113598e5c0)] -> xpath: //a[contains(text(),'About Us')]]
+2024-07-25 19:07:892 INFO  AboutUsPage :15 - Get Aboutus page link: https://www.virgingames.com/uk/about-us
+2024-07-25 19:07:903 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (36e3caf17f7a22045f46109c061b49aa)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:830 INFO  HomePage :24 - click on allow cookie: [[ChromeDriver: chrome on windows (957f4f520a9fc39d853e1819496e729f)] -> xpath: //label[contains(text(),'Allow all cookies')]]
+2024-07-25 19:07:919 INFO  HomePage :29 - Navigate to about us [[ChromeDriver: chrome on windows (957f4f520a9fc39d853e1819496e729f)] -> xpath: //a[contains(text(),'About Us')]]
+2024-07-25 19:07:05 INFO  AboutUsPage :15 - Get Aboutus page link: https://www.virgingames.com/uk/about-us
